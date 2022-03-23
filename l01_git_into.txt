@@ -1,0 +1,6 @@
+1. git 사이트에서 설치
+2. git config --global user.name & user.eamil 등록
+3. git 으로 관리할 프로젝프 폴더로 이동해서 터미널 열기(or git bash)
+4. git init 명령어로 gIt 저장소 생성
+5. git add * 로 감시할 파일 추가
+6. git commit -m "버전설명"으로 저장소에 저장하기 (파일 또는 스냅샷)
