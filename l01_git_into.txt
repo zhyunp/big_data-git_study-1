@@ -4,3 +4,5 @@
 4. git init 명령어로 gIt 저장소 생성
 5. git add * 로 감시할 파일 추가
 6. git commit -m "버전설명"으로 저장소에 저장하기 (파일 또는 스냅샷)
+7. git status 로 저장할 수 있는 상태인지 확인하기
+8. git log --oneline --decorate --graph --all 으로 커밋 이력 확인하기
